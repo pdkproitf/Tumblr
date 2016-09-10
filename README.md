@@ -1,4 +1,5 @@
-http://54.87.147.241:3000/
+amazon: http://54.242.48.104:3001/
+heroku: https://tumblr-pdkpro.herokuapp.com/
 # Tumblr
 ://github.com/CrashLearner/TumblrApp
 
